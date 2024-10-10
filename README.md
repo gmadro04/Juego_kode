@@ -13,6 +13,8 @@
 ## Requisitos
 - **Python** 3.x
 - **PyGame** (instálalo ejecutando `pip install pygame` en la terminal)
+## Instalación
+- Clona este repositorio en tu ordenador. Para esto abre tu terminal (Windows, Linux o Mac), ubicate en tu directorio de preferencia y pega la siguiente linea `git clone https://github.com/gmadro04/Juego_kode.git`
 
 ## Cómo jugar
 
